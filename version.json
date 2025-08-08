@@ -1,0 +1,17 @@
+[
+  {
+    "id": 0,
+    "name": "test",
+    "latest_version": "0.0.0"
+  },
+  {
+    "id": 1,
+    "name": "svk",
+    "latest_version": "0.1.0"
+  },
+  {
+    "id": 2,
+    "name": "avcs",
+    "latest_version": "0.1.0"
+  }
+]
